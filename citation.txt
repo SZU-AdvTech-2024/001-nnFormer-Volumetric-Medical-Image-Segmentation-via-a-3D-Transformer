@@ -1,0 +1,11 @@
+@article{REPO001,
+    author = "Zhou, Hong-Yu and Guo, Jiansen and Zhang, Yinghao and Han, Xiaoguang and Yu, Lequan and Wang, Liansheng and Yu, Yizhou",
+    doi = "10.1109/TIP.2023.3293771",
+    journal = "IEEE Transactions on Image Processing",
+    keywords = "Transformers;Data structures;Boolean functions;Three-dimensional displays;Image segmentation;Feature extraction;Kernel;Transformer;attention mechanism;volumetric image segmentation",
+    number = "",
+    pages = "4036-4045",
+    title = "{nnFormer: Volumetric Medical Image Segmentation via a 3D Transformer}",
+    volume = "32",
+    year = "2023"
+}
