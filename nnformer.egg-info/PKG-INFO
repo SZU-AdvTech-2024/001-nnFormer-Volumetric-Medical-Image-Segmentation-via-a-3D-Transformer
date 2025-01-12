@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: nnformer
+Version: 0.0.0
+License-File: LICENSE
+Requires-Dist: dicom2nifti
+Requires-Dist: scikit-image>=0.14
+Requires-Dist: medpy
+Requires-Dist: scipy
+Requires-Dist: batchgenerators>=0.21
+Requires-Dist: scikit-learn
+Requires-Dist: SimpleITK
+Requires-Dist: pandas
+Requires-Dist: requests
+Requires-Dist: nibabel
+Requires-Dist: tifffile
